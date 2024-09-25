@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 function AboutMe() {
   return (
     <section
@@ -14,9 +13,9 @@ function AboutMe() {
         With expertise in JavaScript, React, and Node.js, I thrive on
         turning complex problems into simple, elegant solutions. I
         love to create user-friendly interfaces, optimize backend
-        operations, and deliver seamless digital experiences. When I'm
-        not coding, I enjoy learning new technologies and working on
-        innovative projects that push the boundaries of web
+        operations, and deliver seamless digital experiences. When
+        I&apos;m not coding, I enjoy learning new technologies and
+        working on innovative projects that push the boundaries of web
         development. Let&apos;s connect and create something amazing
         together!
       </p>

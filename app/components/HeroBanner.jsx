@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -12,7 +11,9 @@ function HeroBanner() {
       <div className="flex flex-col gap-6 md:gap-8 md:justify-self-start">
         {/* Left side */}
         <h1 className="text-3xl font-bold md:text-4xl lg:text-6xl">
-          <span className="text-[#A594FD]">Hello, I'm Luqas,</span>
+          <span className="text-[#A594FD]">
+            Hello, I&apos;m Luqas,
+          </span>
           <br />
           Frontend Developer
         </h1>
